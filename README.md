@@ -4,5 +4,5 @@ A collection of data-driven projects showcased my data analysis, visualization, 
 Projects Include: 
 - Web Scraping
 - Predictive Modeling
-- Data Analysis & Visulaization
-- Custom Dashboards/Reports 
+- Data Analysis
+- Data Visualizations  
